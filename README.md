@@ -4,7 +4,7 @@
 > - Android
 > - Natural Language Processing
 > - Deep Learning
-> - Python
+> - Data Structures and Algorithms
 > - Tech and finance blogging. 
 > I am a passionate Full Stack Developer specializing in MERN stack, with industry projects in
 > MEAN, MERN, Android and NLP. 
