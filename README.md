@@ -1,5 +1,5 @@
 > Me DKP, aka dkp1903, aka Dushyant Pathak. 
-[https://github.com/dkp1903]Website
+[Website](https://dkp1903.company) | [LinkedIn](https://linkedin.com/in/dkp1903)
 > - MERN Stack
 > - MEAN Stack
 > - Android
