@@ -7,7 +7,7 @@ My tech stack :
 ## Web and Mobile
 - Front End : React / Angular / Electron(Desktop apps). I have also worked on Web Design, including SASS, Flex, Grid, Tailwind but my friends say I don't have taste in colors:(. - I don't agree because this is what my blog looks like.
 
-![](https://i.ibb.co/6Z66pY2/blog-ss.png)
+![](https://img.techpowerup.org/200828/blog-snap.png)
 
 - Have worked with Gatsby and Svelte. 
 - Mobile : Android / React Native. I have made 10+ apps for various startups in Android. [Here](https://github.com/dkp1903/VistaNews-And) is an example.
