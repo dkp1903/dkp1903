@@ -1,6 +1,6 @@
 This is DKP, a Full Stack Web Developer. I drink and dream JavaScript. I blog about Data Structures, tech and markets on [my blog](https://dkprobes.tech)
 
-Look at my [website](https://dkp1903.company), which I made using React and GraphQL. I am very active on [LinkedIn](https://linkedin.com/in/dkp1903) and 
+Look at my [website](https://dkp.today), which I made using React and GraphQL. I am very active on [LinkedIn](https://linkedin.com/in/dkp1903) and 
 [Twitter](https://twitter.com/dkp1903)
 
 My tech stack : 
