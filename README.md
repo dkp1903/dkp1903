@@ -1,5 +1,5 @@
 <h2> Howdy! This is DKP. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://i.ibb.co/N2R4TM0/dkp-photo.jpg" width="500"/>
+<img align="right" alt="GIF" src="https://i.ibb.co/N2R4TM0/dkp-photo.jpg" width="300" height="200"/>
 
 <h3> 👨🏻‍💻 About </h3>
 
