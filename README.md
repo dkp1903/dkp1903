@@ -19,6 +19,7 @@
 - 🔧 &nbsp; AWS | GCP | Docker
 
 <h3>🛠My Favorite projects</h3>
+
 - 💻 [Devagram-an Instagram for Developers, by developers](https://github.com/dkp1903/devagram)
 
 - 💻 [Homify-Housing Search Made Easy](https://github.com/dkp1903/Homify)
