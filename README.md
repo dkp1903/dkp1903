@@ -20,8 +20,11 @@
 
 <h3>🛠My Favorite projects</h3>
 - 💻 [Devagram-an Instagram for Developers, by developers](https://github.com/dkp1903/devagram)
+
 - 💻 [Homify-Housing Search Made Easy](https://github.com/dkp1903/Homify)
+
 - 💻 [Stock-Vakri : Stock Management done easy and light](https://github.com/dkp1903/BrokerDash)
+
 - 💻 [Legify - Generate Trade Agreements automatically](https://github.com/dkp1903/TextGenRNN)
 
 <br>
