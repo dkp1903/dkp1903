@@ -18,6 +18,12 @@
 - 🛢 &nbsp; MongoDB | Postgres | MySQL | Firebase
 - 🔧 &nbsp; AWS | GCP | Docker
 
+<h3>🛠My Favorite projects</h3>
+- 💻 [Devagram-an Instagram for Developers, by developers](https://github.com/dkp1903/devagram)
+- 💻 [Homify-Housing Search Made Easy](https://github.com/dkp1903/Homify)
+- 💻 [Stock-Vakri : Stock Management done easy and light](https://github.com/dkp1903/BrokerDash)
+- 💻 [Legify - Generate Trade Agreements automatically](https://github.com/dkp1903/TextGenRNN)
+
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dkp1903&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DKP's Github Stats">
