@@ -46,4 +46,4 @@
 &nbsp; <a href="mailto:dkp.daiict@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/dkp1903)
+⭐️ From [DKP](https://github.com/dkp1903)
