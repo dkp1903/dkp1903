@@ -24,7 +24,7 @@
 
 - 💻 [Homify-Housing Search Made Easy](https://github.com/dkp1903/Homify)
 
-- 💻 [Stock-Vakri : Stock Management done easy and light](https://github.com/dkp1903/BrokerDash)
+- 💻 [Stock-Vakri : Stock Management done easy and light](https://github.com/dkp1903/Stock-Vakri)
 
 - 💻 [Legify - Generate Trade Agreements automatically](https://github.com/dkp1903/TextGenRNN)
 
