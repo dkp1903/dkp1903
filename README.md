@@ -21,13 +21,13 @@
 
 <h3>🛠My Favorite projects</h3>
 
-- 💻 [Devagram-an Instagram for Developers, by developers](https://github.com/dkp1903/devagram)
+- 💻 [QKart - A full stack Ecommerce portal, fully tested and developed](https://github.com/dkp1903/qkart-frontend)
 
-- 💻 [Homify-Housing Search Made Easy](https://github.com/dkp1903/Homify)
+- 💻 [Livable- A real estate search, filter and display MySQL-ERN stack ](https://github.com/dkp1903/Homify)
 
 - 💻 [Stock-Vakri : Stock Management done easy and light](https://github.com/dkp1903/Stock-Vakri)
 
-- 💻 [Legify - Generate Trade Agreements automatically](https://github.com/dkp1903/TextGenRNN)
+- 💻 [Expenso - A voice powered expense tracking application created using React, Material-UI, ChartJS and the Speechly API](https://github.com/dkp1903/expenso)
 
 <br>
 
@@ -35,7 +35,6 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkp1903&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
