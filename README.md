@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About </h3>
 
-- 🔭 &nbsp; Core tech stack - MERN, Docker, AWS
-- 🤔 &nbsp; Blog on [DKProbes](https://dkprobes.tech)
+- 🔭 &nbsp; Experienced with : React, Angular, Java, Spring, NodeJS
+- 🤔 &nbsp; Blog on [DKProbes](https://dk-probes.tech)
 - 🎓 &nbsp; 2021 Grad, @DA-IICT, India
-- 💼 &nbsp; Tech Analyst @[Deutsche India](https://db.com)
+- 💼 &nbsp; Software Engineer @[Deutsche India](https://db.com)
 - 💼 &nbsp; Experience at [Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), [Deutsche Bank](https://db.com)
 - 🌱 &nbsp; Write JS, Java, Python, C++
 - ✍️ &nbsp; I love teaching code as much as I love to code - Microsoft Learn Student Ambassador, AWS Educate Cloud Ambassador, Lead, Student Govt Web App Team
@@ -14,8 +14,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; React | Angular | Vue | Next | Gatsby | CSS | Svelte
-- 🌐 &nbsp; Node | Django | Spring
+- 💻 &nbsp; React | Angular | Next | Gatsby
+- 🌐 &nbsp; Node | Java(Spring)
 - 🛢 &nbsp; MongoDB | Postgres | MySQL | Firebase
 - 🔧 &nbsp; AWS | GCP | Docker
 
