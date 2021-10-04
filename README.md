@@ -1,23 +1,21 @@
 <h2> Howdy! This is DKP. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://i.ibb.co/KrqmJ0F/DKP-Photo-1-6-21.jpg" width="300" height="300"/>
 
 <h3> 👨🏻‍💻 About </h3>
 
 - 🔭 &nbsp; Experienced with : React, Angular, Java, Spring, NodeJS
-- 🤔 &nbsp; Blog on [DKProbes](https://dk-probes.tech)
+- 🤔 &nbsp; Blog on [DKProbes](https://dkprobes.tech)
 - 🎓 &nbsp; 2021 Grad, @DA-IICT, India
 - 💼 &nbsp; Software Engineer @[Deutsche India](https://db.com)
-- 💼 &nbsp; Experience at [Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), [Deutsche Bank](https://db.com)
+- 💼 &nbsp; Internship Experience at [Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), [Deutsche Bank](https://db.com)
 - 🌱 &nbsp; Write JS, Java, Python, C++
 - ✍️ &nbsp; I love teaching code as much as I love to code - Microsoft Learn Student Ambassador, AWS Educate Cloud Ambassador, Lead, Student Govt Web App Team
 - ☕ &nbsp; My best code comes out when I am around tea
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; React | Angular | Next | Gatsby
+- 💻 &nbsp; React | Angular | Next
 - 🌐 &nbsp; Node | Java(Spring)
 - 🛢 &nbsp; MongoDB | Postgres | MySQL | Firebase
-- 🔧 &nbsp; AWS | GCP | Docker
 
 <h3>🛠My Favorite projects</h3>
 
@@ -43,7 +41,7 @@
 &nbsp; <a href="https://twitter.com/dkp1903" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/dkp1903/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/dkp1903/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:dkp.daiict@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:dushyantpathak6789@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️ From [DKP](https://github.com/dkp1903)
