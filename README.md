@@ -2,14 +2,12 @@
 
 <h3> 👨🏻‍💻 About </h3>
 
-- 🔭 &nbsp; Experienced with : React, Angular, Java, Spring, NodeJS
-- 🤔 &nbsp; Blog on [DKProbes](https://dkprobes.tech)
+- 🔭 &nbsp; Experienced with : React, Angular, Java, NodeJS, Python
+- 🤔 &nbsp; Blog on [DKProbes](https://dkprobes.netlify.app)
 - 🎓 &nbsp; 2021 Grad, @DA-IICT, India
 - 💼 &nbsp; Software Engineer @[Deutsche India](https://db.com)
 - 💼 &nbsp; Internship Experience at [Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), [Deutsche Bank](https://db.com)
 - 🌱 &nbsp; Write JS, Java, Python, C++
-- ✍️ &nbsp; I love teaching code as much as I love to code - Microsoft Learn Student Ambassador, AWS Educate Cloud Ambassador, Lead, Student Govt Web App Team
-- ☕ &nbsp; My best code comes out when I am around tea
 
 <h3>🛠 Tech Stack</h3>
 
@@ -26,12 +24,6 @@
 - 💻 [Stock-Vakri : Stock Management done easy and light](https://github.com/dkp1903/Stock-Vakri)
 
 - 💻 [Expenso - A voice powered expense tracking application created using React, Material-UI, ChartJS and the Speechly API](https://github.com/dkp1903/expenso)
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkp1903&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DKP's Github Stats">
-
-</br>
 
 
 
