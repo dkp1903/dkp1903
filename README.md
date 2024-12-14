@@ -3,11 +3,10 @@
 <h3> 👨🏻‍💻 About </h3>
 
 - 🔭 &nbsp; Experienced with : React, Angular, Java, NodeJS, Python
-- 🤔 &nbsp; Blog on [DKProbes](https://dkprobes.netlify.app)
-- 🎓 &nbsp; 2021 Grad, @DA-IICT, India
-- 💼 &nbsp; Software Engineer @[Deutsche India](https://db.com)
-- 💼 &nbsp; Internship Experience at [Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), [Deutsche Bank](https://db.com)
-- 🌱 &nbsp; Write JS, Java, Python, C++
+- 🤔 &nbsp; Blog on [DKProbes](https://blog.dkpathak.in)
+- 💼 &nbsp; Software Engineer 2 @[UiPath](https://uipath.com)
+- 💼 &nbsp; Previously @[Deutsche Bank](https://db.com) @[Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), 
+- 🌱 &nbsp; Write Golang, Java, TS, JS, Java, Python, C++
 
 <h3>🛠 Tech Stack</h3>
 
