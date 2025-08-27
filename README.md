@@ -2,7 +2,8 @@
 
 <h3> 👨🏻‍💻 About </h3>
 
-- 🔭 &nbsp; Experienced with : React, Angular, Java, NodeJS, Python
+- Work Profile : https://github.com/dushyant-uipath?tab=overview&from=2025-07-01&to=2025-07-31
+-  🔭 &nbsp; Experienced with : React, Angular, Java, NodeJS, Python
 - 🤔 &nbsp; Blog on [DKProbes](https://blog.dkpathak.in)
 - 💼 &nbsp; Software Engineer 2 @[UiPath](https://uipath.com)
 - 💼 &nbsp; Previously @[Deutsche Bank](https://db.com) @[Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), 
